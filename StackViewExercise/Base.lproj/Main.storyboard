@@ -41,7 +41,7 @@
                                             <constraint firstAttribute="height" constant="119" id="vbd-ne-Mwb"/>
                                         </constraints>
                                     </stackView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" spacing="70" translatesAutoresizingMaskIntoConstraints="NO" id="E4b-BP-dAC">
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="70" translatesAutoresizingMaskIntoConstraints="NO" id="E4b-BP-dAC">
                                         <rect key="frame" x="158" y="199" width="284" height="48"/>
                                         <subviews>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="post" translatesAutoresizingMaskIntoConstraints="NO" id="Mcl-fU-dZ3">
@@ -88,7 +88,7 @@
                                             <constraint firstAttribute="height" constant="48" id="ALw-G6-AKP"/>
                                         </constraints>
                                     </stackView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" spacing="70" translatesAutoresizingMaskIntoConstraints="NO" id="Xwq-l6-SjK">
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="70" translatesAutoresizingMaskIntoConstraints="NO" id="Xwq-l6-SjK">
                                         <rect key="frame" x="158" y="327" width="284" height="21"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Post" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NoB-vV-JXZ">
